@@ -1,0 +1,6 @@
+{
+  "name": "Start on Heroku: Node.js",
+  "description": "HotchApp leaning ",
+  "repository": "https://github.com/heroku/HotchApp",
+  "keywords": ["node", "express", "heroku"]
+}
