@@ -11,5 +11,8 @@
     "url": "HotchApp"
   },
   "author": "Chirag Budhiraja",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
